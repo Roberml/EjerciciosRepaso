@@ -1,0 +1,7 @@
+C:\Users\roberto\source\repos\Ej1RepasoDI\Ej2RepasoDI\obj\Debug\Ej2RepasoDI.csprojAssemblyReference.cache
+C:\Users\roberto\source\repos\Ej1RepasoDI\Ej2RepasoDI\obj\Debug\Ej2RepasoDI.csproj.CoreCompileInputs.cache
+C:\Users\roberto\source\repos\Ej1RepasoDI\Ej2RepasoDI\bin\Debug\Ej2RepasoDI.exe.config
+C:\Users\roberto\source\repos\Ej1RepasoDI\Ej2RepasoDI\bin\Debug\Ej2RepasoDI.exe
+C:\Users\roberto\source\repos\Ej1RepasoDI\Ej2RepasoDI\bin\Debug\Ej2RepasoDI.pdb
+C:\Users\roberto\source\repos\Ej1RepasoDI\Ej2RepasoDI\obj\Debug\Ej2RepasoDI.exe
+C:\Users\roberto\source\repos\Ej1RepasoDI\Ej2RepasoDI\obj\Debug\Ej2RepasoDI.pdb
